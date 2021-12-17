@@ -8,7 +8,7 @@ nav_order: 4
 *Updated 12th December 2021*
 
 - Q1 2022:
-  - ICO
+  - ICO (Initial Coin Offering)
   - Alpha test
   - Built-in marketplace
 - Q2 2022:
