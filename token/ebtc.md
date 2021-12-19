@@ -8,7 +8,7 @@ parent: Token Information
 # eBTC
 
 
-# Token information
+## Token information
 
 **Token name:** Encrypt Bitcoin
 
@@ -18,7 +18,7 @@ parent: Token Information
 
 **totalSupply:** 10,000,000 eBTC
 
-# Tokenomics
+## Tokenomics
 
 **Public Sell:** 1,000,000 eBTC
 
@@ -26,7 +26,7 @@ parent: Token Information
 
 **Research and Development:** 1,000,000 eBTC
 
-# Contract address
+## Contract address
 
 **BSC Mainnet:**
 
