@@ -7,6 +7,8 @@ parent: Token Information
 
 # cFont NFT
 
+## Token Information
+
 **Token name:** Crypto Font
 
 **Symbol:** cFont
@@ -15,7 +17,7 @@ parent: Token Information
 
 **totalSupply:** No
 
-# Main function
+## Main function
 
 ```
     function createRandomcFont() external;
@@ -40,7 +42,7 @@ parent: Token Information
 ```
 
 
-# Contract address
+## Contract address
 
 **BSC Mainnet:** 
 
