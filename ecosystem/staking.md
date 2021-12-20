@@ -7,6 +7,7 @@ parent: Ecosystem
 
 # NFT Staking
 
+### Minting cFont
 **minting 1 cFont always use 100 eBTC**
 
 You need to allow eBTC for minting first then you can mint cFont.
